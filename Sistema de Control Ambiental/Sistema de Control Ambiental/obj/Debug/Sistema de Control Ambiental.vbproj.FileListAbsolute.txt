@@ -1,0 +1,30 @@
+C:\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\bin\Debug\Sistema de Control Ambiental.exe.config
+C:\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\bin\Debug\Sistema de Control Ambiental.exe
+C:\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\bin\Debug\Sistema de Control Ambiental.pdb
+C:\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\bin\Debug\Sistema de Control Ambiental.xml
+C:\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\WindowsApplication1.frmControlSalones.resources
+C:\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\WindowsApplication1.frmInicio.resources
+C:\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\WindowsApplication1.Resources.resources
+C:\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\Sistema de Control Ambiental.vbproj.GenerateResource.Cache
+C:\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\Sistema de Control Ambiental.exe
+C:\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\Sistema de Control Ambiental.xml
+C:\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\Sistema de Control Ambiental.pdb
+C:\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\WindowsApplication1.frmRecursos.resources
+C:\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\Sistema de Control Ambiental.vbprojResolveAssemblyReference.cache
+C:\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\WindowsApplication1.frmReporte.resources
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\bin\Debug\Sistema de Control Ambiental.exe.config
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\Sistema de Control Ambiental.exe
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\Sistema de Control Ambiental.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\Sistema de Control Ambiental.pdb
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\bin\Debug\Sistema de Control Ambiental.exe
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\bin\Debug\Sistema de Control Ambiental.pdb
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\bin\Debug\Sistema de Control Ambiental.xml
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\Sistema de Control Ambiental.vbprojResolveAssemblyReference.cache
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\WindowsApplication1.frmControlSalones.resources
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\WindowsApplication1.frmPrincipal.resources
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\WindowsApplication1.frmInicio.resources
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\WindowsApplication1.frmRecursos.resources
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\WindowsApplication1.frmReporte.resources
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\edwin\Documents\Visual Studio 2012\Projects\Sistema de Control Ambiental\Sistema de Control Ambiental\obj\Debug\Sistema de Control Ambiental.vbproj.GenerateResource.Cache
